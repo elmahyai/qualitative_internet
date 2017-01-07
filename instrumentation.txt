@@ -1,0 +1,3 @@
+low frontend instumentation will be used as follows:
+data will be extracted manually based on the conceptual framework
+sites are websites, forums and social media
