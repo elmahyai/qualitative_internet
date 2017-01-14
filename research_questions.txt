@@ -8,3 +8,6 @@ Do they advertise something? Do they critcise other doctors?
 ----------------------
 ##3-How is the knowledge exchanged between the patients and the doctors?
 queries of the patiends? content of the answers of the doctor?
+----------------------
+##4-Why do patients go online?  >causation coding
+----------------------

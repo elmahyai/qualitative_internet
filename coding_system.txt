@@ -1,0 +1,22 @@
+##Causation_coding
+obesity>query
+...
+----------------------------------
+#Attribute_coding
+adult_male;adult_female;pregnant;adol_male;adol_female;child;eld_male;eld_female
+----------------------------------
+#Magnitude_coding
+mild_prob; moderate_prob; severe_prob
+-------------------------------------
+#time_coding
+chronic; acute
+progressive;stable;relapsing
+-------------------------------------
+#process_coding (__ing)
+visiting a doctor
+going to school
+----------------------------------
+
+
+
+
